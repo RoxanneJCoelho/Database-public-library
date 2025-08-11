@@ -1,5 +1,8 @@
 # [PT] Base de Dados de uma Biblioteca Pública 📚 - SQL
 
+### Autora 
+Roxanne Coelho
+
 ### Descrição
 Este projeto tem como objetivo criar uma base de dados para um sistema de gestão de informação de uma biblioteca pública hipotética. Inclui a definição das tabelas, inserção de dados exemplares e consultas SQL para gerir e explorar informações da biblioteca, como livros, exemplares, utentes, funcionários, empréstimos e reservas.
 
@@ -20,6 +23,9 @@ SQL
 
     
 # [ENG] Database of a Public Library 📚 - SQL
+
+### Author
+Roxanne Coelho
 
 ### Description  
 This project aims to create a database for an information management system for a hypothetical public library. It includes table definitions, sample data insertion, and SQL queries to manage and explore library information such as books, copies, users, employees, loans and reservations.
