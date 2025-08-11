@@ -16,6 +16,8 @@ SQL
  2. Executar o script `RoxanneCoelho_InsercaoDados.sql` para popular as tabelas com dados de exemplo.
  3. Executar as queries do script `RoxanneCoelho_Queries.sql` para testar e explorar a base de dados.
 
+
+
     
 # [ENG] Database of a Public Library 📚 - SQL
 
