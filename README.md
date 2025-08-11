@@ -21,18 +21,18 @@ SQL
     
 # [ENG] Database of a Public Library 📚 - SQL
 
-## Description  
+### Description  
 This project aims to create a database for an information management system for a hypothetical public library. It includes table definitions, sample data insertion, and SQL queries to manage and explore library information such as books, copies, users, employees, loans and reservations.
 
-## Languages 
+### Languages 
 - SQL  
 
-## Project Structure  
+### Project Structure  
 - `RoxanneCoelho_CriaçaoDB.sql` — Script to create the database and database tables.  
 - `RoxanneCoelho_InsercaoDados.sql` — Script to insert data into the tables.  
 - `RoxanneCoelho_Queries.sql` — SQL queries to extract information from the database.
 
-## Installation and Usage   
+### Installation and Usage   
 1. Run the `RoxanneCoelho_CriaçaoDB.sql` script to create the database and database tables.  
 2. Run the `RoxanneCoelho_InsercaoDados.sql` script to populate the tables with sample data.  
 3. Run the queries in `RoxanneCoelho_Queries.sql` script to test and explore the database.
