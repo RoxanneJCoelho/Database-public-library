@@ -1,17 +1,17 @@
 # [PT] Base de Dados de uma Biblioteca Pública 📚 - SQL
 
-## Descrição
+### Descrição
 Este projeto tem como objetivo criar uma base de dados para um sistema de gestão de informação de uma biblioteca pública hipotética. Inclui a definição das tabelas, inserção de dados exemplares e consultas SQL para gerir e explorar informações da biblioteca, como livros, exemplares, utentes, funcionários, empréstimos e reservas.
 
-# Linguagens
+### Linguagens
 SQL
 
-# Estrutura do Projeto
+### Estrutura do Projeto
  - `RoxanneCoelho_CriaçaoDB.sql`— Script para criar a base de dados e as tabelas.
  - `RoxanneCoelho_InsercaoDados.sql` — Script para inserir dados nas tabelas.
  - `RoxanneCoelho_Queries.sql` — Consultas SQL para extrair informação da base de dados.
 
-# Instalação e Utilização
+### Instalação e Utilização
  1. Executar o script `RoxanneCoelho_CriaçaoDB.sql` para criar a base de dados e as tabelas.
  2. Executar o script `RoxanneCoelho_InsercaoDados.sql` para popular as tabelas com dados de exemplo.
  3. Executar as queries do script `RoxanneCoelho_Queries.sql` para testar e explorar a base de dados.
